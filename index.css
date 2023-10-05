@@ -1,0 +1,213 @@
+nav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(131, 25, 25);
+    width: 100%;
+    height: 200px;
+}
+.echo{
+    background-color: blue;
+    height: 90px;
+    width: 15%;
+    margin-right: 18%;
+    margin-bottom: 2%;
+}
+.download{
+    background-color: blue;
+    height: 70px;
+    width: 49%;
+    margin-right: 3%;
+}
+section{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: black;
+    height: 600px;
+    width: 100%;
+}
+.expert{
+    background-color: chartreuse;
+    height: 500px;
+    width: 45%;
+}
+.photo{
+    background-color: chartreuse;
+    height: 500px;
+    width: 48%;
+}
+.ourucun{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: crimson;
+    height: 250px;
+    width: 100%;
+}
+.our{
+    background-color: blue;
+    width: 40%;
+    height: 200px;
+}
+.uclu{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: crimson;
+    height: 400px;
+    width: 100%;
+}
+.uclub{
+    margin-left: 5%;
+    background-color:blue;
+    height: 200px;
+    width: 20%;
+}
+.uclui{
+    background-color:blue;
+    height: 200px;
+    width: 20%;
+}
+.ucluu{
+    background-color:blue;
+    height: 200px;
+    width: 20%;
+    margin-right: 5%;
+}
+.jk{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: darkgoldenrod;
+    height: 600px;
+    width: 100%;
+}
+.photolabw{
+    background-color: rgb(77, 10, 47);
+    height: 500px;
+    width: 49%;
+}
+.photolab{
+    background-color: rgb(77, 10, 47);
+    height: 450px;
+    width: 25%;
+}
+.xirda{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(180, 131, 209);
+    height: 200px;
+    width: 100%;
+}
+.xirdacun{
+    background-color: crimson;
+    height: 170px;
+    width: 30%;
+}
+.op{
+    flex-direction:column;
+    flex-wrap: wrap;
+    background-color: rgb(180, 131, 209);
+    width: 100%;
+    height: 700px;
+}
+.qq{
+    background-color: darkorange;
+    height: 150px;
+    width: 15%;
+    
+}
+.ww{
+    background-color: darkorange;
+    height: 150px;
+    width: 15%;
+}
+.ee{
+    background-color: darkorange;
+    height: 150px;
+    width: 15%;
+}
+.rr{
+    background-color: darkorange;
+    height: 150px;
+    width: 15%;
+}
+.tt{
+    background-color: darkorange;
+    height: 150px;
+    width: 15%;
+}
+.yy{
+    background-color: darkorange;
+    height: 150px;
+    width: 15%;
+}
+.azqalbcun{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: blueviolet;
+    height: 210px;
+    width: 100%;
+}
+.azqalb{
+    background-color: rgb(63, 35, 0);
+    height: 200px;
+    width: 67%;
+    margin-top: 10%;
+}
+.oi{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: blueviolet;
+    height: 600px;
+}
+.oii{
+    background-color: brown;
+    height:300px;
+    width: 20%;
+    margin-left: 7%;
+}
+.oiii{
+    background-color: brown;
+    height:300px;
+    width: 20%;
+}
+.oiiii{
+    background-color: brown;
+    height:300px;
+    width: 20%;
+    margin-right: 7%;
+}
+.sevdim{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(217, 255, 0);
+    width: 100%;
+    height: 400px;
+}
+.omenisevmedi{
+    background-color: rgb(36, 65, 91);
+    height: 200px;
+    width: 30%;
+}
+.oldurremozumu{
+    background-color: rgb(36, 65, 91);
+    height: 150px;
+    width: 10%;
+}
+.aaaaa{
+    background-color: rgb(36, 65, 91);
+    height: 150px;
+    width: 10%;
+}
+.oldum{
+    margin-right: 8%    ;
+    background-color: rgb(36, 65, 91);
+    height: 150px;
+    width: 20%;
+}
